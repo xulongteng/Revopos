@@ -1,0 +1,14 @@
+C:\(12.3)Demo\Mysql\MySql_Demo\MySql_Demo\bin\Debug\MySql_Demo.exe.config
+C:\(12.3)Demo\Mysql\MySql_Demo\MySql_Demo\bin\Debug\MySql_Demo.exe
+C:\(12.3)Demo\Mysql\MySql_Demo\MySql_Demo\bin\Debug\MySql_Demo.pdb
+C:\(12.3)Demo\Mysql\MySql_Demo\MySql_Demo\bin\Debug\BouncyCastle.Crypto.dll
+C:\(12.3)Demo\Mysql\MySql_Demo\MySql_Demo\bin\Debug\Google.Protobuf.dll
+C:\(12.3)Demo\Mysql\MySql_Demo\MySql_Demo\bin\Debug\MySql.Data.dll
+C:\(12.3)Demo\Mysql\MySql_Demo\MySql_Demo\bin\Debug\Renci.SshNet.dll
+C:\(12.3)Demo\Mysql\MySql_Demo\MySql_Demo\bin\Debug\Google.Protobuf.xml
+C:\(12.3)Demo\Mysql\MySql_Demo\MySql_Demo\bin\Debug\MySql.Data.xml
+C:\(12.3)Demo\Mysql\MySql_Demo\MySql_Demo\bin\Debug\Renci.SshNet.xml
+C:\(12.3)Demo\Mysql\MySql_Demo\MySql_Demo\obj\Debug\MySql_Demo.csprojAssemblyReference.cache
+C:\(12.3)Demo\Mysql\MySql_Demo\MySql_Demo\obj\Debug\MySql_Demo.csproj.CopyComplete
+C:\(12.3)Demo\Mysql\MySql_Demo\MySql_Demo\obj\Debug\MySql_Demo.exe
+C:\(12.3)Demo\Mysql\MySql_Demo\MySql_Demo\obj\Debug\MySql_Demo.pdb
